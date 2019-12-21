@@ -1,2 +1,2 @@
 # First-MySQL-project
-Learning MySQL
+Learning mysql
